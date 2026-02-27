@@ -1,1 +1,1 @@
-User authentication system
+Developed a secure user authentication system using Python and Flask API with features like signup, login, session management,and password hashing.Designed and integrated a role-based dashboard to manage user data and provide a personalized experience. Implemented RESTful APIs for handling user registration, authentication, and data retrieval with SQLite/PostgreSQL backend. 
